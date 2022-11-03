@@ -9982,3 +9982,6 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+.customtBackground{
+  background-image:url('../img/about.jpg')!important
+}
